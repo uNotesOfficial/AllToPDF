@@ -1,4 +1,3 @@
 
-const add = (a: number, b: number) => a + b
 
-export { add }
+export {convertDocxToPdf} from './docxToPDF'
