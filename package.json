@@ -18,8 +18,5 @@
 	},
 	"version": "0.0.1",
 	"dependencies": {
-		"@types/pdfmake": "^0.2.2",
-		"docxtemplater": "^3.37.7",
-		"pdfmake": "^0.2.7"
 	}
 }
